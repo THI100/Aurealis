@@ -5,13 +5,10 @@ Aurealis Blockchain Datasheet
 
 - **Blockchain Name:** Aurealis
 - **Ticker Symbol:** AUL
-- **Launch Date:** end-2026 – mid-2027
+- **Launch Date:** end-2027 – mid-2028
 - **Initial Supply:** 3,559,600 AUL (22%)
 - **Max Supply:** 16,180,000 AUL
-- **Founders / Organization:**  
-  - Chris Markov (Security & Architect)  
-  - Bruna Oliveira (Governance & Economist)  
-  - Lilian Ackerman (C and C++ Engineer)  
+- **Founders / Organization:** 
   - Thiago Marquezi (Blockchain Engineer)
 - **Official Website:** In development  
 - **Whitepaper Link:** In development  
@@ -59,9 +56,9 @@ Aurealis Blockchain Datasheet
 
 - **Format:** Struct OOP, max size 1024 bytes
 - **Fee Distribution per Transaction:**  
-  - Developers: 4% (fixed priority)  
-  - Treasury: 19.5–81% (primary priority)  
-  - Staking: 15–75.5% (secondary priority)  
+  - Developers: 1% (fixed priority)  
+  - Treasury: 19.5–83.5% (primary priority)  
+  - Staking: 15–76.5% (secondary priority)  
   - Burn: 0.5% (deflationary)  
 - **Fee Calculation:** Governed by treasury cost models, capped between 10^-15 and 10^-9 AUL depending on transaction size
 - **Mempool Design:** 64 MB, fee-sorted, stores smart contracts + default records, with re-send required on expiration/replacement
