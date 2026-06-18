@@ -5,7 +5,7 @@ Aurealis Blockchain Datasheet
 
 - **Blockchain Name:** Aurealis
 - **Ticker Symbol:** AUL
-- **Launch Date:** end-2027 – mid-2028
+- **Launch Date:** up to 2030
 - **Initial Supply:** 3,559,600 AUL (22%)
 - **Max Supply:** 16,180,000 AUL
 - **Founders / Organization:** 
